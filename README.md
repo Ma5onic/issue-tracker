@@ -1,6 +1,6 @@
 # Issue tracking system
 
-Issue and project tracking system.
+Issue and project tracking system. (Windows Server)
 
 ##### Highly customizable - define your own workflow
 
